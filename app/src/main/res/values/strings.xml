@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">rock paper scissor</string>
+    <string name="rock_paper_scissor">Rock paper Scissor</string>
+    <string name="reset">Reset</string>
+    <string name="you">You</string>
+    <string name="ai">AI</string>
+    <string name="lose">You Lose !!!</string>
+    <string name="again">again</string>
+    <string name="cancel">Cancel</string>
+    <string name="play_again">Play again</string>
+    <string name="exit">exit</string>
+    <string name="you_won">You Won</string>
+    <string name="you_lost">You Lost</string>
+    <string name="choose">choose</string>
+    <string name="middledot">::</string>
+    <string name="lost_won_tie">lost,won,tie</string>
+</resources>
